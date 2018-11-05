@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class PlayerSettings 
 {
-    /*Testing collaboration */
     public string playerName;
     public int characterType;
     public short teamId;
